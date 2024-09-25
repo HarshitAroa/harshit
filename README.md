@@ -1,4 +1,4 @@
-# harshit
+#30days_sql_challenge
 Sql 30 days challenge day01
 -- Amazon Interview Practice 21/02/2024
 
